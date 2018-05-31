@@ -1,0 +1,112 @@
+{
+    "movies": [
+        {
+            "id": "hug",
+            "img" : "../assets/hug-paeng.jpg"
+        },
+        {
+            "id": "deadpool",
+            "img" : "../assets/deadpool-2.jpg"
+        },
+        {
+            "id": "toot",
+            "img" : "../assets/toot-too-ku-chart.jpg"
+        },
+        {
+            "id": "nongpeeteerak",
+            "img" : "../assets/nongpeeteerak.jpg"
+        },
+        {
+            "id": "infinity",
+            "img" : "../assets/infinity-war.jpg"
+        },
+        {
+            "id": "peter",
+            "img" : "../assets/peter-rabbit.jpg"
+        }
+    ],
+    "hug": [
+        { "id": "A1", "seated": true, "price": 120 },
+        { "id": "A2", "seated": false, "price": 120 },
+        { "id": "A3", "seated": false, "price": 120 },
+        { "id": "A4", "seated": false, "price": 120 },
+        { "id": "A5", "seated": false, "price": 120 },
+        { "id": "A6", "seated": false, "price": 120 },
+        { "id": "B1", "seated": true, "price": 200 },
+        { "id": "B2", "seated": false, "price": 200 },
+        { "id": "B3", "seated": false, "price": 200 },
+        { "id": "B4", "seated": false, "price": 200 },
+        { "id": "B5", "seated": true, "price": 200 },
+        { "id": "B6", "seated": false, "price": 200 }
+    ],
+    "deadpool": [
+        { "id": "A1", "seated": true, "price": 120 },
+        { "id": "A2", "seated": true, "price": 120 },
+        { "id": "A3", "seated": true, "price": 120 },
+        { "id": "A4", "seated": true, "price": 120 },
+        { "id": "A5", "seated": true, "price": 120 },
+        { "id": "A6", "seated": false, "price": 120 },
+        { "id": "B1", "seated": true, "price": 200 },
+        { "id": "B2", "seated": false, "price": 200 },
+        { "id": "B3", "seated": false, "price": 200 },
+        { "id": "B4", "seated": false, "price": 200 },
+        { "id": "B5", "seated": true, "price": 200 },
+        { "id": "B6", "seated": false, "price": 200 }
+    ],
+    "toot": [
+        { "id": "A1", "seated": true, "price": 120 },
+        { "id": "A2", "seated": true, "price": 120 },
+        { "id": "A3", "seated": false, "price": 120 },
+        { "id": "A4", "seated": false, "price": 120 },
+        { "id": "A5", "seated": false, "price": 120 },
+        { "id": "A6", "seated": false, "price": 120 },
+        { "id": "B1", "seated": true, "price": 200 },
+        { "id": "B2", "seated": false, "price": 200 },
+        { "id": "B3", "seated": false, "price": 200 },
+        { "id": "B4", "seated": false, "price": 200 },
+        { "id": "B5", "seated": true, "price": 200 },
+        { "id": "B6", "seated": false, "price": 200 }
+    ],
+    "nongpeeteerak": [
+        { "id": "A1", "seated": true, "price": 120 },
+        { "id": "A2", "seated": false, "price": 120 },
+        { "id": "A3", "seated": false, "price": 120 },
+        { "id": "A4", "seated": true, "price": 120 },
+        { "id": "A5", "seated": false, "price": 120 },
+        { "id": "A6", "seated": false, "price": 120 },
+        { "id": "B1", "seated": true, "price": 200 },
+        { "id": "B2", "seated": false, "price": 200 },
+        { "id": "B3", "seated": false, "price": 200 },
+        { "id": "B4", "seated": false, "price": 200 },
+        { "id": "B5", "seated": true, "price": 200 },
+        { "id": "B6", "seated": false, "price": 200 }
+    ],
+    "infinity": [
+        { "id": "A1", "seated": true, "price": 120 },
+        { "id": "A2", "seated": false, "price": 120 },
+        { "id": "A3", "seated": true, "price": 120 },
+        { "id": "A4", "seated": true, "price": 120 },
+        { "id": "A5", "seated": false, "price": 120 },
+        { "id": "A6", "seated": false, "price": 120 },
+        { "id": "B1", "seated": true, "price": 200 },
+        { "id": "B2", "seated": false, "price": 200 },
+        { "id": "B3", "seated": false, "price": 200 },
+        { "id": "B4", "seated": false, "price": 200 },
+        { "id": "B5", "seated": true, "price": 200 },
+        { "id": "B6", "seated": false, "price": 200 }
+    ],
+    "peter": [
+        { "id": "A1", "seated": true, "price": 120 },
+        { "id": "A2", "seated": false, "price": 120 },
+        { "id": "A3", "seated": true, "price": 120 },
+        { "id": "A4", "seated": true, "price": 120 },
+        { "id": "A5", "seated": false, "price": 120 },
+        { "id": "A6", "seated": false, "price": 120 },
+        { "id": "B1", "seated": true, "price": 200 },
+        { "id": "B2", "seated": false, "price": 200 },
+        { "id": "B3", "seated": false, "price": 200 },
+        { "id": "B4", "seated": false, "price": 200 },
+        { "id": "B5", "seated": true, "price": 200 },
+        { "id": "B6", "seated": false, "price": 200 }
+    ]
+}
